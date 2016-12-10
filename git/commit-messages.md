@@ -28,7 +28,7 @@
 	    preceded by a single space, with blank lines in
 	    between, but conventions vary here
 
-## Links
+## Source and More Information
 
 [http://chris.beams.io/posts/git-commit/]()
 [http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html]()
