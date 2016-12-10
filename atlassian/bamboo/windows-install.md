@@ -34,7 +34,7 @@ data directory: C:\root\bin\atlassian\app-data\bamboo-home
 
 See screenshots [old]
 
-## Run Bamboo as a Service
+## Run Bamboo as a Windows service
 
 - Run C:\root\bin\atlassian\bamboo\InstallAsService.bat
 - Run services.msc
