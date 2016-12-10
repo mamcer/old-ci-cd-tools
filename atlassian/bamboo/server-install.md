@@ -1,6 +1,6 @@
 # Bamboo
 
-Install JDK ´jdk-8u111-windows-x64.exe´
+Install JDK Â´jdk-8u111-windows-x64.exeÂ´ (is the latest version at the moment of this write)
 
 Set JAVA_HOME=C:\root\bin\java\jdk1.8.0_111
 
